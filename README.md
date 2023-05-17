@@ -1,16 +1,9 @@
-# muse_mockup
+# muse_app
 
-A new Flutter project.
+A flutter app for mHealth research purposes. The app is designed to allow users to easily track and report their UV exposure by creating an entry upon going outdoors, configuring an avatar's outfit to represent their clothing (and therefore their skin exposure), and declaring the end of the exposure period upon going indoors.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![GIF Demo of app in action](demo.gif)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
